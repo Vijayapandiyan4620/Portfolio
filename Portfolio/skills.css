@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Yatra+One&display=swap');
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Yatra One", system-ui;
+    
+  
+   
+}
+body{
+    background-color: black;
+    color: red;
+}
+#sk{
+    text-align: center;
+    margin-top: 10px;
+    color: gold;
+   
+
+}
+
+#sql{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    padding-top: -100px;
+    /* border: 2px solid ; */
+    height: 155px;
+    margin-left: -470px;
+    font-size: 25px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 5px;
+    
+}
+#web{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    margin-top: 5px;
+    /* border: 2px solid ; */
+    height: 155px;
+    padding: 5px;
+    margin-left: -780px;
+    font-size: 25px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 5px;
+     
+}
+#man{
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    /* border: 2px solid ; */
+    height: 150px;
+    padding: 3px;
+    font-size: 23px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 5px;
+    padding-left: 10px;
+    
+}
+.gol{
+    color: goldenrod;
+}
